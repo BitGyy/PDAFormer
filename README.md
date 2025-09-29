@@ -1,1 +1,1 @@
-PDAFormer_official\n Official PyTorch implement of PDAFormer 3+
+Official PyTorch implement of PDAFormer 3+
